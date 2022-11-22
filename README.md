@@ -38,6 +38,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kan01234&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## My Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kan01234&show_icons=true&theme=dark&count_private=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kan01234&theme=dark&background=000000)](https://git.io/streak-stats)
