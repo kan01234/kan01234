@@ -38,7 +38,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kan01234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kan01234&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kan01234&show_icons=true&theme=tokyonighta&count_private=true)
 
 ---
 
