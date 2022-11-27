@@ -5,7 +5,10 @@
 - 👨‍💻 Wokring as Software Engineer, Full stack Developer
 - 🏠 Living in Japan🇯🇵 now
 - 🚪 Please check my [portfolio](https://kan01234.github.io/#home)
-- 📫 How to reach me [safghjkl@gmail.com 📧](mailto:safghjkl@gmail.com)
+- 📫 How to reach me
+
+<a href="mailto: safghjkl@gmail.com">![safghjkl@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/ho-kan-leung-132503109">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ---
 
