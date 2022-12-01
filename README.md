@@ -46,9 +46,9 @@
 ## My Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kan01234&show_icons=true&theme=dark&count_private=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kan01234&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=kan01234&theme=modern-lilac)](https://git.io/streak-stats)
 <!---
+
 kan01234/kan01234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
